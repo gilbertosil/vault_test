@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "8fae6114eceaaf95",
+        "id": "6974a2f4fa03f2e2",
         "type": "tabs",
         "children": [
           {
-            "id": "b207290518e76dc6",
+            "id": "5fa6f02545102bd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TESTE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2af699bdac5bfa27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TESTE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "014678b2fbc5efcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/OS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tech/OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tech/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tech/OS.md"
+              }
             }
           }
         ]
@@ -138,6 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b207290518e76dc6",
-  "lastOpenFiles": []
+  "active": "014678b2fbc5efcc",
+  "lastOpenFiles": [
+    "TESTE.md",
+    "tech/OS.md",
+    "tech",
+    "README.md"
+  ]
 }
